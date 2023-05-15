@@ -6,15 +6,17 @@ meta: imprint legal address dealer inquiries partner gdpr
 
 # Imprint
 
-
 <address>
-TODO
+F.U.M.P.<br/>
+c/o Daniel Hiller <br/> 
+Boltenhang 52 <br/>
+48231 Warendorf <br/>
 </address>
+
+<a href="https://www.instagram.com/fump_rocks/"><i class="fa-brands fa-instagram"></i> fump_rocks</a>
 
 
 # GDPR
-
-TODO
 
 ## About your data
 
@@ -32,7 +34,7 @@ Our DNS-Provider [Cloudflare](https://www.cloudflare.com/) uses one cookie (name
 Our site is hosted at [Github Pages](https://pages.github.com/).
 
 ## Source code of our site
-You can have a look at this sites [source code](https://github.com/dhiller/fump-rocks.github.io).
+You can have a look at this sites [source code](https://github.com/fump-rocks/fump-rocks.github.io).
 
 ## Something wrong?
 If there is something you suspect is not compliant to GDPR, please [send us a mail](mailto:gdpr@fump-rocks.eu).

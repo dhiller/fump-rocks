@@ -1,7 +1,7 @@
 timezone: Europe/Berlin
 
-url: https://www.fump-rocks.eu
-enforce_ssl: www.fump-rocks.eu
+url: https://fump-rocks.github.io/
+enforce_ssl: fump-rocks.github.io
 
 collections:
   gigs:
