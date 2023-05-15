@@ -1,0 +1,22 @@
+timezone: Europe/Berlin
+
+url: https://www.fump-rocks.eu
+enforce_ssl: www.fump-rocks.eu
+
+collections:
+  gigs:
+    output: false
+    future: true
+  galleries:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "default"
+
+gems:
+  - jekyll-sitemap
