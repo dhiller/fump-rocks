@@ -1,6 +1,6 @@
 timezone: Europe/Berlin
 
-url: https://www.fump-rocks.eu/
+url: https://www.fump-rocks.eu
 enforce_ssl: www.fump-rocks.eu
 
 collections:
